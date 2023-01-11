@@ -1,5 +1,5 @@
 
-Hi, I'm Humayun. You can find working on Go lang, Solidity and MERN stack often.
+Hi, I'm Humayun. You can find me working in Go lang, Solidity and MERN stack often.
 
 Reach out to me [@humayun219](https://twitter.com/humayun219)
 
