@@ -1,5 +1,5 @@
 
-Hi, I'm Humayun. You can find me working in Go lang, Solidity, MERN stack often and learning Rust.
+Hi, I'm Humayun. You'll find me working mostly in Solidity and Typescript.
 
 
 Reach out to me [@humayun219](https://twitter.com/humayun219)
